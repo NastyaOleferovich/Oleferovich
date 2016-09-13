@@ -1,0 +1,22 @@
+c:\users\ansee\documents\visual studio 2015\Projects\EPAM lab1\EPAM lab1\bin\Debug\EPAM lab1.exe.config
+c:\users\ansee\documents\visual studio 2015\Projects\EPAM lab1\EPAM lab1\obj\Debug\EPAM lab1.csprojResolveAssemblyReference.cache
+c:\users\ansee\documents\visual studio 2015\Projects\EPAM lab1\EPAM lab1\bin\Debug\EPAM lab1.exe
+c:\users\ansee\documents\visual studio 2015\Projects\EPAM lab1\EPAM lab1\bin\Debug\EPAM lab1.pdb
+c:\users\ansee\documents\visual studio 2015\Projects\EPAM lab1\EPAM lab1\obj\Debug\EPAM lab1.exe
+c:\users\ansee\documents\visual studio 2015\Projects\EPAM lab1\EPAM lab1\obj\Debug\EPAM lab1.pdb
+C:\Users\Анастасия\Desktop\EPAM lab1\EPAM lab1\bin\Debug\EPAM lab1.exe.config
+C:\Users\Анастасия\Desktop\EPAM lab1\EPAM lab1\obj\Debug\EPAM lab1.exe
+C:\Users\Анастасия\Desktop\EPAM lab1\EPAM lab1\obj\Debug\EPAM lab1.pdb
+C:\Users\Анастасия\Desktop\EPAM lab1\EPAM lab1\bin\Debug\EPAM lab1.exe
+C:\Users\Анастасия\Desktop\EPAM lab1\EPAM lab1\bin\Debug\EPAM lab1.pdb
+C:\Users\Анастасия\Desktop\EPAM lab1\EPAM lab1\bin\Debug\mscorlib.dll
+C:\Users\Анастасия\Desktop\EPAM lab1\EPAM lab1\bin\Debug\System.Net.Http.dll
+C:\Users\Анастасия\Desktop\EPAM lab1\EPAM lab1\bin\Debug\System.Net.Http.xml
+C:\Users\Анастасия\Desktop\EPAM lab1\EPAM lab1\bin\Debug\ru\mscorlib.resources.dll
+C:\Users\Анастасия\Desktop\EPAM lab1\EPAM lab1\bin\Debug\ru\System.Net.Http.resources.dll
+C:\Users\Анастасия\Desktop\EPAM lab1\EPAM lab1\bin\Debug\normidna.nlp
+C:\Users\Анастасия\Desktop\EPAM lab1\EPAM lab1\bin\Debug\normnfc.nlp
+C:\Users\Анастасия\Desktop\EPAM lab1\EPAM lab1\bin\Debug\normnfd.nlp
+C:\Users\Анастасия\Desktop\EPAM lab1\EPAM lab1\bin\Debug\normnfkc.nlp
+C:\Users\Анастасия\Desktop\EPAM lab1\EPAM lab1\bin\Debug\normnfkd.nlp
+C:\Users\Анастасия\Desktop\EPAM lab1\EPAM lab1\obj\Debug\EPAM lab1.csprojResolveAssemblyReference.cache
